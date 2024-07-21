@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - endroad
+  - wall
+  - pushRight
+  - pushLeft
+  - pushBack
+  - pushFoward
+  - startPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - brickLayer
+  - Water
+  - UI
+  - wall
+  - road
+  - line
+  - push
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ParSys
+    uniqueID: 3581494515
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

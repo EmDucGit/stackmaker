@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{568646CD-5137-4424-AA04-8D312AD3B483}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="70ed7a2a-1cf1-438e-845a-8c9adacb5221" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/LevelSelectBtn.cs">
+    <Files>
+      <File FileName="Assets/Script/ActionManager.cs" Line="14" Column="2" />
+      <File FileName="Assets/Script/Player3D.cs" />
+      <File FileName="Assets/UnPush.cs" />
+      <File FileName="Assets/Script/UIManager.cs" Line="58" Column="6" />
+      <File FileName="Assets/Script/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/LevelManager.cs" Line="28" Column="10" />
+      <File FileName="Assets/UITutorial.cs" />
+      <File FileName="Assets/Script/LoadScene.cs" />
+      <File FileName="Assets/Script/LineRemoveBrick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/RestartLevelBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/WinPos.cs" Line="28" Column="36" />
+      <File FileName="Assets/Script/CameraFollow.cs" Line="12" Column="9" />
+      <File FileName="Assets/Script/BrickVisual.cs" />
+      <File FileName="Assets/Script/NextLevelBtn.cs" />
+      <File FileName="Assets/Script/PushBlock.cs" />
+      <File FileName="Assets/Script/Level.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Brick.cs" />
+      <File FileName="Assets/Script/LevelSelectBtn.cs" Line="7" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
